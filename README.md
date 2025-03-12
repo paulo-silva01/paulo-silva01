@@ -6,7 +6,7 @@ With my passion for computers and technology, I chose to continue my studies in 
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/paulo-silva01/vulnerability-management-program)**
-- **[Tenable Vulnerability Management]()**
+- **[Tenable Vulnerability Management](https://github.com/paulo-silva01/tenable-vulnerability-management)**
 - **[OpenVAS Vulnerability Management](https://github.com/paulo-silva01/Azure-Vulnerability-Management)**
 
 ## Threat Hunting and Security Operations
