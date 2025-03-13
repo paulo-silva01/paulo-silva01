@@ -11,7 +11,8 @@ With my passion for computers and technology, I chose to continue my studies in 
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Sentinel Home Security Operations Center]()**
+- **[Home Lab Running Oracle VirtualBox(PowerShell)]()**
 
 <hr/>
 
