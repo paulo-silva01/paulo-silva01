@@ -11,7 +11,7 @@ With my passion for computers and technology, I chose to continue my studies in 
 
 ## Threat Hunting and Security Operations
 
-- **[Sentinel Home Security Operations Center]()**
+- **[Sentinel Home Security Operations Center](https://github.com/paulo-silva01/sentinel-home-SOC)**
 - **[Home Lab Running Oracle VirtualBox (PowerShell)]()**
 
 <hr/>
