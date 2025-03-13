@@ -12,7 +12,7 @@ With my passion for computers and technology, I chose to continue my studies in 
 ## Threat Hunting and Security Operations
 
 - **[Sentinel Home Security Operations Center]()**
-- **[Home Lab Running Oracle VirtualBox(PowerShell)]()**
+- **[Home Lab Running Oracle VirtualBox (PowerShell)]()**
 
 <hr/>
 
