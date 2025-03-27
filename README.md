@@ -16,7 +16,7 @@ With my passion for computers and technology, I chose to continue my studies in 
 
 ## Security Technical Implementation Guide
 
-- **[STIG Remediations](https://github.com/paulo-silva01/STIG-Remediation)**
+- **[STIG Remediations (STIG)](https://github.com/paulo-silva01/STIG-Remediation)**
 
 <hr/>
 
