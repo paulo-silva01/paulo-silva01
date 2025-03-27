@@ -14,6 +14,10 @@ With my passion for computers and technology, I chose to continue my studies in 
 - **[Sentinel Home Security Operations Center](https://github.com/paulo-silva01/sentinel-home-SOC)**
 - **[Home Lab Running Active Directory (Oracle VirtualBox)](https://github.com/paulo-silva01/Home-Lab-Running-Active-Directory)**
 
+## Security Technical Implementation Guide
+
+- **[STIG Remediations](https://github.com/paulo-silva01/STIG-Remediation)**
+
 <hr/>
 
 ## Connect With Me
