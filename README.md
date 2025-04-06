@@ -11,6 +11,7 @@ With my passion for computers and technology, I chose to continue my studies in 
 
 ## Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
 - **[Sentinel Home Security Operations Center](https://github.com/paulo-silva01/sentinel-home-SOC)**
 - **[Home Lab Running Active Directory (Oracle VirtualBox)](https://github.com/paulo-silva01/Home-Lab-Running-Active-Directory)**
 
